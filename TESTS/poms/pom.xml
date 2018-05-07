@@ -11,6 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/hello_world_0.1</module>
+    <module>jobs/process/hello_world_1.0</module>
   </modules>
   <properties>
     <talend.project.name>TESTS</talend.project.name>
