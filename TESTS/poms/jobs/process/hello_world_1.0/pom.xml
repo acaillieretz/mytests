@@ -8,7 +8,7 @@
     <version>7.0.1</version>
     <relativePath>../../../</relativePath>
   </parent>
-  <groupId>org.example.tests.jobb</groupId>
+  <groupId>org.example.tests.job</groupId>
   <artifactId>hello_world</artifactId>
   <version>1.0.0</version>
   <name>TESTS hello_world-1.0.0 (1.0,Jobs)</name>
