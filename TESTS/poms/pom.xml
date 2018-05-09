@@ -15,6 +15,7 @@
     <module>jobs/process/hello_world_srv/hello_world_srvPortType/hello_world_srvOperation/hello_world_srvporttype_hello_world_srvoperation_0.1</module>
     <module>jobs/services/hello_world_srv_0.1</module>
     <module>code/beans</module>
+    <module>jobs/services/hello_world_srv_1.0</module>
   </modules>
   <properties>
     <talend.project.name>TESTS</talend.project.name>
