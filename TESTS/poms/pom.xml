@@ -16,6 +16,7 @@
     <module>jobs/services/hello_world_srv_0.1</module>
     <module>code/beans</module>
     <module>jobs/services/hello_world_srv_1.0</module>
+    <module>jobs/process/hello_again_1.0</module>
   </modules>
   <properties>
     <talend.project.name>TESTS</talend.project.name>
