@@ -75,6 +75,20 @@
       <relatedItems xmi:id="_lChhFFgSEeiIGp0_jsF1Uw" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_lChhFVgSEeiIGp0_jsF1Uw" id="Mathematical" version="Latest" type="routine"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_jtoqYFgVEeiIGp0_jsF1Uw">
+      <baseItem xmi:id="_jtoqYVgVEeiIGp0_jsF1Uw" id="_F9aqQFgSEeiIGp0_jsF1Uw" version="1.1" type="job"/>
+      <relatedItems xmi:id="_jtoqYlgVEeiIGp0_jsF1Uw" id="_dCdTMFgSEeiIGp0_jsF1Uw" version="Latest" type="job"/>
+      <relatedItems xmi:id="_jtoqY1gVEeiIGp0_jsF1Uw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_jtoqZFgVEeiIGp0_jsF1Uw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_jtoqZVgVEeiIGp0_jsF1Uw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_jtoqZlgVEeiIGp0_jsF1Uw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_jtoqZ1gVEeiIGp0_jsF1Uw" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_jtoqaFgVEeiIGp0_jsF1Uw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_jtoqaVgVEeiIGp0_jsF1Uw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_jtoqalgVEeiIGp0_jsF1Uw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_jtoqa1gVEeiIGp0_jsF1Uw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_jtoqbFgVEeiIGp0_jsF1Uw" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_okGf0FHPEeiKVN0c0s4YUQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_okGf0VHPEeiKVN0c0s4YUQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_okGf0lHPEeiKVN0c0s4YUQ" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
